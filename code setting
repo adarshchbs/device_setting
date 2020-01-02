@@ -1,0 +1,19 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "window.zoomLevel": 0,
+    "vim.autoSwitchInputMethod.enable": true,
+    "keyboard.dispatch": "keyCode",
+    "vim.startInInsertMode": true,
+    "vim.useCtrlKeys": false, 
+    "vim.overrideCopy" :false,
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-c>": false,
+        "<C-n>": false,
+        "<C-x>": false,
+        "<C-w>": false,
+        "<C-d>": false
+    }
+}
